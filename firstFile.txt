@@ -1,1 +1,3 @@
 First line of text for first commit.
+
+Another line of text for a change commit.
